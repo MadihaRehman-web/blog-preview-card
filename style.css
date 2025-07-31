@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-main-container {
+  max-width: 20.4rem;
+  min-height: 31.35rem;
+  border: 1px solid black;
+  box-shadow: 2px 1px 0px 5px black;
+  border-radius: 20px;
+}
