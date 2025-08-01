@@ -49,7 +49,7 @@ Through this project, I improved my understanding of **responsive design** using
 
 Here’s a snippet where I applied these concepts:
 
-````css
+`````css
 .card {
   display: flex;
   flex-direction: column;
@@ -57,13 +57,13 @@ Here’s a snippet where I applied these concepts:
   padding: 1.5rem;
   width: 20rem;
 }
-``` ```html @media (min-width: 768px) {
+````html @media (min-width: 768px) {
   .card {
     flex-direction: row;
     width: 40rem;
   }
 }
-````
+`````
 
 ### Useful resources
 
@@ -73,5 +73,5 @@ Here’s a snippet where I applied these concepts:
 ## Author
 
 - Name - Madiha Rehman
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MadihaRehman-web)
+- Frontend Mentor - [@MadihaRehman-web](https://www.frontendmentor.io/profile/MadihaRehman-web)
 - GitHub - [MadihaRehman-web](https://github.com/MadihaRehman-web)
