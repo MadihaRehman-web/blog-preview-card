@@ -28,8 +28,8 @@ The goal of this challenge was to create a blog preview card that looks visually
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://madiharehman-web.github.io/blog-preview-card/)
+- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Live Site URL: [Github Pages](https://madiharehman-web.github.io/blog-preview-card/)
 
 ## My process
 
