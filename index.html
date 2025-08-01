@@ -14,16 +14,32 @@
   </head>
   <body>
     <main class="blog-main-container">
-      <img src="./assets/images/illustration-article.svg" alt="article" />
-      <button>Learning</button>
-      <p>Published 21 Dec 2023</p>
-      <h2>HTML & CSS foundations</h2>
-      <p>
-        These languages are the backbone of every website, defining structure,
-        content, and presentation.
-      </p>
-      <img src="./assets/images/image-avatar.webp" alt="avatar" />
-      <span>Greg Hooper</span>
+      <section class="blog-preview-card">
+        <img
+          class="article-image"
+          src="./assets/images/illustration-article.svg"
+          alt="article"
+        />
+
+        <div class="content">
+          <button class="learning-btn">Learning</button>
+          <p class="publish-date">Published 21 Dec 2023</p>
+          <h1 class="title">HTML & CSS foundations</h1>
+          <p class="message">
+            These languages are the backbone of every website, defining
+            structure, content, and presentation.
+          </p>
+        </div>
+
+        <div class="avator-container">
+          <img
+            src="./assets/images/image-avatar.webp"
+            alt="avatar"
+            class="avator"
+          />
+          <span class="avator-title">Greg Hooper</span>
+        </div>
+      </section>
     </main>
   </body>
 </html>
