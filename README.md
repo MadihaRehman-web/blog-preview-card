@@ -24,7 +24,7 @@ The goal of this challenge was to create a blog preview card that looks visually
 
 ![Desktop](./screenshot/desktop.jpg)
 ![Mobile](./screenshot/mobile.jpg)
-![Active States](./screenshot/active-states.jpg)
+![Active State](./screenshot/active-state.jpg)
 
 ### Links
 
