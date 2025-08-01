@@ -58,7 +58,7 @@
   margin-top: 1rem;
 }
 
-.title:hover {
+.title:active {
   color: hsl(47, 88%, 63%);
   cursor: pointer;
 }
@@ -87,7 +87,7 @@
   font-size: 17px;
 }
 
-@media (width >= 375px) {
+@media (min-width: 375px) {
   .blog-preview-card {
     width: 24rem;
     height: 32.65rem;
